@@ -17,7 +17,7 @@ const TransactionHistory = ({ items  }) => {
     <tr>
       <th>Type</th>
       <th>Amount</th>
-      <th>~Currency</th>  
+      <th>Currency</th>  
     </tr>
 </thead>
 
